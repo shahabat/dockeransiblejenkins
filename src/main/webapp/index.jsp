@@ -1,5 +1,5 @@
 <html>
-<body><h2 stype="colour: red">Welcome</h2></body>
+<body><h2 stype="colour: red">Welcome2</h2></body>
 
 <div class="line"></div>
 <div class="wrapper">
